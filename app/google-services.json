@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185699307497",
+    "project_id": "fast-aid-app",
+    "storage_bucket": "fast-aid-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185699307497:android:aeca3cecd08d21405d8578",
+        "android_client_info": {
+          "package_name": "com.example.fastaidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185699307497-agi7oaqih0hlbo3q49ij7dbeqf20g31i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlFEyvLPJjGJeNqS4pocvaQJp4TvLdc7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185699307497-agi7oaqih0hlbo3q49ij7dbeqf20g31i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
